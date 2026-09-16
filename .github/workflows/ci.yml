@@ -22,5 +22,5 @@ jobs:
 
      - name: Executar os testes
        run: |
-        pytest tests/uni
+        pytest tests/unit
         
